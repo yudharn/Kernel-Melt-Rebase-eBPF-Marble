@@ -20,6 +20,7 @@ on:
         options:
           - melt-rebase
           - melt-Guxin12-A
+          - Yudharn-melt-rebase
 
       clang_url:
         description: "Clang/LLVM toolchain download URL (.tar.xz)"
