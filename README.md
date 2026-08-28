@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 
-#  ✧ Credits ✧
+#   Credits 
 
  **Pzqqt** — upstream Marble kernel source and maintenance
  
