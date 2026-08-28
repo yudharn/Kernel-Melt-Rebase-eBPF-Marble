@@ -22,9 +22,11 @@
 
  **Pzqqt** — upstream Marble kernel source and maintenance
  
- **osm0sis** — AnyKernel3 flashing framework
+ **osm0sis** — AnyKernel3
  
  **tiann** — KernelSU
+ 
+**deepongi-labs** — KernelSU-KoWSU
  
 **KernelSU-Next team** — KernelSU-Next
 
@@ -40,7 +42,7 @@
 
  **vc-teahouse** — Baseband-guard
  
- Xiaomi/MIUI kernel source maintainers
+ **Xiaomi/MIUI kernel source maintainers**
 
 ---
 
