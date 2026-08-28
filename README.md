@@ -1,6 +1,6 @@
 <div align="center">
 
-#   ✧ Melt Rebase For marble ✧
+#    Melt Rebase For marble 
 **Feature:
 -ReKernel Network
 -eBPF
